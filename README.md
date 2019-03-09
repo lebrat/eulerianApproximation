@@ -17,6 +17,7 @@ python spline.py
 	* **p** Plot a piecewise linear linking the points
 	* **e** Plot the eulerian smoothing spline of degree given by the user
 
+![Example of curves](https://github.com/lebrat/eulerianApproximation/blob/master/screenshot.png)
 ## Requirements
 This code was tested using the following librairies
 * Python      3.6.x
